@@ -1,6 +1,6 @@
 # wonderful-quotes
 
-An Vue.js Application for Wonderful Quotes
+An Vue.js Application for learning purposes called 'Wonderful Quotes'
 
 # Introduction
 
@@ -8,7 +8,7 @@ I implemented this application to learn more about Vue.js Framework. This applic
 
 # Learnings
 
-This application helped me to understand following Vue.js basics:
+This application helped me to understand following Vue.js concepts:
 - Advanced Component Usage
 - Communicating between Components
 - Using Conditionals and Rendering Lists
