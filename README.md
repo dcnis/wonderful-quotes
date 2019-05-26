@@ -15,16 +15,9 @@ This application helped me to understand following Vue.js basics:
 - Using Vue.js to interact with the DOM
 - Using vue-cli to build a development workflow
 
-# Demo
-
-Demo app is available - enter code `8d75a0ec` into [Ionic View](http://view.ionic.io/).
-Live demo is available on [Codepen](http://codepen.io/katemihalikova/full/dYvjzP/).
-
 #Screenshots
 
-<img src="/../screenshots/date.png?raw=true" alt="Date picker" width="239">
-<img src="/../screenshots/time.png?raw=true" alt="Time picker" width="239">
-<img src="/../screenshots/datetime.png?raw=true" alt="Datetime picker" width="239">
+<img src="/src/assets/screenshot.jpg?raw=true" alt="Wonderful Quotes Application">
 
 # Installation
 
