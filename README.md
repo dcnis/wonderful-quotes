@@ -1,6 +1,6 @@
 # wonderful-quotes
 
-An Vue.js Application for learning purposes called 'Wonderful Quotes'
+A Vue.js Application for learning purposes called 'Wonderful Quotes'
 
 # Introduction
 
